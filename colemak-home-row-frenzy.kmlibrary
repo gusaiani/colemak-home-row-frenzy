@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Gustavo Saiani</string>
+	<key>AuthorURL</key>
+	<string>www.poe.ma</string>
+	<key>CanDragToMacroGroup</key>
+	<true/>
+	<key>Category1</key>
+	<string>Interface Control</string>
+	<key>Category2</key>
+	<string></string>
+	<key>Description</key>
+	<string>Be extra fast and comfortable by emphasizing the right-hand homerow on Colemak keyboards.
+
+
+
+</string>
+	<key>Items</key>
+	<array>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>IsActive</key>
+			<true/>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>KeyCode</key>
+							<integer>125</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
+							<integer>0</integer>
+							<key>ReleaseAll</key>
+							<false/>
+						</dict>
+					</array>
+					<key>IsActive</key>
+					<true/>
+					<key>ModificationDate</key>
+					<real>456925441.05464602</real>
+					<key>Name</key>
+					<string>↓</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>40</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>6912</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>52F53349-6189-4F4D-BC65-5A260920F01B</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>Home Row Frenzy</string>
+			<key>UID</key>
+			<string>CD8086FD-08B5-4265-B10E-293D6E3AA658</string>
+		</dict>
+	</array>
+	<key>UID</key>
+	<string>0BFCC488-EA4F-41DD-9A46-AA0EB186DBF1</string>
+</dict>
+</plist>
