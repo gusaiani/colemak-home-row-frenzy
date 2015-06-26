@@ -443,7 +443,7 @@
 					<key>IsActive</key>
 					<true/>
 					<key>ModificationDate</key>
-					<real>456753140.33400202</real>
+					<real>457043905.21099901</real>
 					<key>Name</key>
 					<string>Elixir "in" &lt;-</string>
 					<key>Triggers</key>
@@ -452,7 +452,7 @@
 							<key>FireType</key>
 							<string>Pressed</string>
 							<key>KeyCode</key>
-							<integer>38</integer>
+							<integer>83</integer>
 							<key>MacroTriggerType</key>
 							<string>HotKey</string>
 							<key>Modifiers</key>
@@ -954,6 +954,87 @@
 							<key>MacroActionType</key>
 							<string>SimulateKeystroke</string>
 							<key>Modifiers</key>
+							<integer>0</integer>
+							<key>ReleaseAll</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>KeyCode</key>
+							<integer>47</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
+							<integer>512</integer>
+							<key>ReleaseAll</key>
+							<false/>
+						</dict>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>KeyCode</key>
+							<integer>49</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
+							<integer>0</integer>
+							<key>ReleaseAll</key>
+							<false/>
+						</dict>
+					</array>
+					<key>IsActive</key>
+					<true/>
+					<key>ModificationDate</key>
+					<real>457043934.52191901</real>
+					<key>Name</key>
+					<string>Slim Arrow</string>
+					<key>Triggers</key>
+					<array>
+						<dict>
+							<key>FireType</key>
+							<string>Pressed</string>
+							<key>KeyCode</key>
+							<integer>38</integer>
+							<key>MacroTriggerType</key>
+							<string>HotKey</string>
+							<key>Modifiers</key>
+							<integer>6400</integer>
+						</dict>
+					</array>
+					<key>UID</key>
+					<string>8E9BEB83-C9D2-4CF5-BE6C-3235B6FD5C2D</string>
+				</dict>
+			</array>
+			<key>Name</key>
+			<string>Home Row Frenzy</string>
+			<key>UID</key>
+			<string>CD8086FD-08B5-4265-B10E-293D6E3AA658</string>
+		</dict>
+		<dict>
+			<key>Activate</key>
+			<string>Normal</string>
+			<key>IsActive</key>
+			<true/>
+			<key>Macros</key>
+			<array>
+				<dict>
+					<key>Actions</key>
+					<array>
+						<dict>
+							<key>IsActive</key>
+							<true/>
+							<key>IsDisclosed</key>
+							<true/>
+							<key>KeyCode</key>
+							<integer>27</integer>
+							<key>MacroActionType</key>
+							<string>SimulateKeystroke</string>
+							<key>Modifiers</key>
 							<integer>512</integer>
 							<key>ReleaseAll</key>
 							<false/>
@@ -989,6 +1070,6 @@
 		</dict>
 	</array>
 	<key>UID</key>
-	<string>2333A3D0-B3F7-46DF-BCFE-21B753657801</string>
+	<string>6696D9C7-D428-4822-8B8E-0E512426E87C</string>
 </dict>
 </plist>

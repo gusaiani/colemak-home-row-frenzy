@@ -32,10 +32,6 @@ As always with Keyboard Maestro, you can set these macros to be used only in cer
 
 | Keys                        | Result                  |
 |:----------------------------|:------------------------|
-| ctr + opt + cmd + n         | <-                      |
-| ctr + opt + cmd + e         | =                       |
-| ctr + opt + cmd + i         | \|                      |
-| ctr + opt + cmd + u         | _                       |
 | ctr + opt + cmd + y         | (                       |
 | ctr + opt + cmd + ;         | )                       |
 | ctr + opt + cmd + ;         | )                       |
@@ -47,6 +43,11 @@ As always with Keyboard Maestro, you can set these macros to be used only in cer
 | shft + ctr + opt + cmd + e  | ↓                       |
 | shft + ctr + opt + cmd + i  | →                       |
 | shft + ctr + opt + cmd + u  | ↑                       |
-| fn + ctr + opt + cmd + i    | \|>                     |
-| fn + ctr + opt + cmd + e    | =>                      |
+| ctr + opt + cmd + e         | =                       |
+| ctr + opt + cmd + u         | _                       |
 | ctr + opt + cmd + m         | +                       |
+| ctr + opt + cmd + i         | \|                      |
+| fn + ctr + opt + cmd + i    | \|>                     |
+| ctr + opt + cmd + n         | ->                      |
+| fn + ctr + opt + cmd + n    | <-                      |
+| fn + ctr + opt + cmd + e    | =>                      |
