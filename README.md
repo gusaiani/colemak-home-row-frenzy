@@ -22,6 +22,7 @@ As always with Keyboard Maestro, you can set these macros to be used only in cer
 ## Dependencies
 
 * [Keyboard Maestro](http://www.keyboardmaestro.com/)
+* [Karabiner](https://pqrs.org/osx/karabiner/), a key remapping utility used here to enable numpad behavior in MacBooks.
 
 ## How to install
 
